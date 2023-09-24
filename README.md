@@ -1,1 +1,1 @@
-Welcome to my portfolio. Here you will see all of my projects for your reference.
+Welcome to my portfolio. Here you will see all of my data analytics project for your reference.
